@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://abg-sokhnut-shivuk-bedigital.zappy5.app
 סוכנות שיווק דיגיטלי המתמחה אך ורק בסוכני נדל&quot;ן. ניהול קמפיינים בפייסבוק, אינסטגרם וגוגל שמייצרים לידים איכותיים. הגיע הזמן לשווק חכם יותר.
 
 ### שירותים
-https://example.com/services
+https://abg-sokhnut-shivuk-bedigital.zappy5.app/services
 מניהול קמפיינים בפייסבוק ואינסטגרם ועד כתיבת תוכן ממיר — כל השירותים שסוכן נדל&quot;ן צריך כדי למשוך לידים חמים ולסגור עסקאות. גלה את החבילות שלנו עכשיו.
 
 ### אודות
-https://example.com/about
+https://abg-sokhnut-shivuk-bedigital.zappy5.app/about
 אביאל ייסד את א.ב.ג מתוך הבנה עמוקה של שוק הנדל&quot;ן. סוכנות שיווק דיגיטלי שלא מנסה לשרת את כולם — אלא מצטיינת בשירות סוכני נדל&quot;ן בלבד. הכר את הצוות שמאחורי התוצאות.
 
 ### צור קשר
-https://example.com/contact
+https://abg-sokhnut-shivuk-bedigital.zappy5.app/contact
 רוצה לדעת איך ניהול קמפיינים בפייסבוק יכול למלא לך את היומן בפגישות? צור קשר עם א.ב.ג עכשיו וקבל ייעוץ ראשוני חינם לאסטרטגיית השיווק הדיגיטלי שלך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://abg-sokhnut-shivuk-bedigital.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://abg-sokhnut-shivuk-bedigital.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://abg-sokhnut-shivuk-bedigital.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: Israel
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://abg-sokhnut-shivuk-bedigital.zappy5.app/contact
+- Endpoint: https://abg-sokhnut-shivuk-bedigital.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ A.B.G is a digital marketing agency owned by Aviel, specializing exclusively in 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://abg-sokhnut-shivuk-bedigital.zappy5.app/sitemap.xml
+- Robots: https://abg-sokhnut-shivuk-bedigital.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://abg-sokhnut-shivuk-bedigital.zappy5.app/llms-full.txt
