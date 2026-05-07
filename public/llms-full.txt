@@ -2,13 +2,13 @@
 
 A.B.G is a digital marketing agency owned by Aviel, specializing exclusively in marketing for real estate agents. The agency manages advertising campaigns on Facebook, Instagram, and Google, with a focus on content writing and creative production designed to generate high-quality leads. The niche focus on real estate agents positions the brand as a specialized expert rather than a generalist agency, conveying authority and deep understanding of the real estate market.
 
-Source: https://-ae6165d0.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ניהול קמפיינים בפייסבוק — א.ב.ג סוכנות שיווק בדיגיטל
 
-URL: https://-ae6165d0.zappy5.app
+URL: https://example.com
 Description: סוכנות שיווק דיגיטלי המתמחה אך ורק בסוכני נדל&quot;ן. ניהול קמפיינים בפייסבוק, אינסטגרם וגוגל שמייצרים לידים איכותיים. הגיע הזמן לשווק חכם יותר.
 
 ניהול קמפיינים בפייסבוק — א.ב.ג סוכנות שיווק בדיגיטל
@@ -592,7 +592,7 @@ Google
 
 ## קמפיינים שמוכרים דירות מהר יותר — א.ב.ג סוכנות שיווק בדיגיטל
 
-URL: https://-ae6165d0.zappy5.app/services
+URL: https://example.com/services
 Description: מניהול קמפיינים בפייסבוק ואינסטגרם ועד כתיבת תוכן ממיר — כל השירותים שסוכן נדל&quot;ן צריך כדי למשוך לידים חמים ולסגור עסקאות. גלה את החבילות שלנו עכשיו.
 
 קמפיינים שמוכרים דירות מהר יותר — א.ב.ג סוכנות שיווק בדיגיטל
@@ -1153,7 +1153,7 @@ Description: מניהול קמפיינים בפייסבוק ואינסטגרם �
 
 ## המומחים שבחרו להתמקד רק בנדל&quot;ן — א.ב.ג סוכנות שיווק בדיגיטל
 
-URL: https://-ae6165d0.zappy5.app/about
+URL: https://example.com/about
 Description: אביאל ייסד את א.ב.ג מתוך הבנה עמוקה של שוק הנדל&quot;ן. סוכנות שיווק דיגיטלי שלא מנסה לשרת את כולם — אלא מצטיינת בשירות סוכני נדל&quot;ן בלבד. הכר את הצוות שמאחורי התוצאות.
 
 המומחים שבחרו להתמקד רק בנדל"ן — א.ב.ג סוכנות שיווק בדיגיטל
@@ -1579,7 +1579,7 @@ Description: אביאל ייסד את א.ב.ג מתוך הבנה עמוקה של
 
 ## מוכן לקבל לידים איכותיים? דבר איתנו — א.ב.ג סוכנות שיווק בדיגיטל
 
-URL: https://-ae6165d0.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצה לדעת איך ניהול קמפיינים בפייסבוק יכול למלא לך את היומן בפגישות? צור קשר עם א.ב.ג עכשיו וקבל ייעוץ ראשוני חינם לאסטרטגיית השיווק הדיגיטלי שלך.
 
 מוכן לקבל לידים איכותיים? דבר איתנו — א.ב.ג סוכנות שיווק בדיגיטל
@@ -2029,7 +2029,7 @@ avladon1992@gmail.com
 
 ## מדיניות פרטיות
 
-URL: https://-ae6165d0.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2287,7 +2287,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-ae6165d0.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2554,7 +2554,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-ae6165d0.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
