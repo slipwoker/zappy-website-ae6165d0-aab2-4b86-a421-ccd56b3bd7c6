@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: avladon1992@gmail.com
+- Phone: 0548984793
+- Phone (tel): tel:0548984793
+- Address: Israel
 
 ### Contact form
 - URL: https://example.com/contact

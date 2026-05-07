@@ -93,7 +93,7 @@ Description: סוכנות שיווק דיגיטלי המתמחה אך ורק ב�
 
 
 
-סוכנות בוטיק בניהול אישי — אביאל לדון
+סוכנות בוטיק בניהול אישי — אביאל אדוניהו
 
 
 
@@ -112,6 +112,7 @@ Description: סוכנות שיווק דיגיטלי המתמחה אך ורק ב�
 
 
 השירותים שלנו
+
 
 
 
@@ -550,11 +551,11 @@ Google
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
@@ -1111,11 +1112,11 @@ Description: מניהול קמפיינים בפייסבוק ואינסטגרם �
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
@@ -1537,11 +1538,11 @@ Description: אביאל ייסד את א.ב.ג מתוך הבנה עמוקה של
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
@@ -1987,11 +1988,11 @@ avladon1992@gmail.com
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
@@ -2186,11 +2187,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: א.ב.ג סוכנות שיווק בדיגיטל
 
-- אימייל: [business_email]
+- אימייל: avladon1992@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0548984793
 
-- כתובת: [business_address]
+- כתובת: Israel
 
 
 
@@ -2245,11 +2246,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
@@ -2452,9 +2453,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: א.ב.ג סוכנות שיווק בדיגיטל
 
-- אימייל: [business_email]
+- אימייל: avladon1992@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0548984793
 
 
 
@@ -2512,11 +2513,11 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
@@ -2742,11 +2743,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: א.ב.ג סוכנות שיווק בדיגיטל
 
-- אימייל: [business_email]
+- אימייל: avladon1992@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0548984793
 
-- כתובת: [business_address]
+- כתובת: Israel
 
 
 
@@ -2798,11 +2799,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 #### יצירת קשר
 
 
-- [business_email]
+- avladon1992@gmail.com
 
-- [business_phone]
+- 0548984793
 
-- [business_address]
+- Israel
 
 
 
